@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 # My second script - helloworldtemplated.sh
 
 cat <<EOF
